@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/squiz-chall/static/css/main.979d7134.css",
+    "main.css": "/squiz-chall/static/css/main.98e7bca6.css",
     "main.js": "/squiz-chall/static/js/main.9f0c4e4f.js",
     "index.html": "/squiz-chall/index.html",
-    "main.979d7134.css.map": "/squiz-chall/static/css/main.979d7134.css.map",
+    "main.98e7bca6.css.map": "/squiz-chall/static/css/main.98e7bca6.css.map",
     "main.9f0c4e4f.js.map": "/squiz-chall/static/js/main.9f0c4e4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.979d7134.css",
+    "static/css/main.98e7bca6.css",
     "static/js/main.9f0c4e4f.js"
   ]
 }
