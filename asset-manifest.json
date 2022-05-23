@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/patrykrysz24/squiz-chall.git/static/css/main.979d7134.css",
-    "main.js": "/patrykrysz24/squiz-chall.git/static/js/main.dab321e4.js",
-    "index.html": "/patrykrysz24/squiz-chall.git/index.html",
-    "main.979d7134.css.map": "/patrykrysz24/squiz-chall.git/static/css/main.979d7134.css.map",
-    "main.dab321e4.js.map": "/patrykrysz24/squiz-chall.git/static/js/main.dab321e4.js.map"
+    "main.css": "/squiz-chall/static/css/main.979d7134.css",
+    "main.js": "/squiz-chall/static/js/main.9f0c4e4f.js",
+    "index.html": "/squiz-chall/index.html",
+    "main.979d7134.css.map": "/squiz-chall/static/css/main.979d7134.css.map",
+    "main.9f0c4e4f.js.map": "/squiz-chall/static/js/main.9f0c4e4f.js.map"
   },
   "entrypoints": [
     "static/css/main.979d7134.css",
-    "static/js/main.dab321e4.js"
+    "static/js/main.9f0c4e4f.js"
   ]
 }
