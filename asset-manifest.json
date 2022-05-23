@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/patrykrysz24/squiz-chall.git/static/css/main.979d7134.css",
+    "main.js": "/patrykrysz24/squiz-chall.git/static/js/main.dab321e4.js",
+    "index.html": "/patrykrysz24/squiz-chall.git/index.html",
+    "main.979d7134.css.map": "/patrykrysz24/squiz-chall.git/static/css/main.979d7134.css.map",
+    "main.dab321e4.js.map": "/patrykrysz24/squiz-chall.git/static/js/main.dab321e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979d7134.css",
+    "static/js/main.dab321e4.js"
+  ]
+}
